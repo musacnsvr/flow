@@ -2,7 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/musacnsvr/flow)](https://github.com/musacnsvr/flow/stargazers)
-[![Servers](https://img.shields.io/badge/dynamic/json.svg?label=servers&url=https%3A%2F%2Fdiscord.bots.gg%2Fapi%2Fv1%2Fbots%2F716259870910840832&query=%24.guildCount&colorB=7289DA)](https://discord.com/api/oauth2/authorize?client_id=741323966127538197&permissions=8&scope=bot)
 [![Discord](https://img.shields.io/discord/644947524788027435)](https://discord.gg/9cDeqFe)
 [![Version](https://img.shields.io/github/package-json/v/anilmisirlioglu/Asena?color=blue)](https://github.com/anilmisirlioglu/Asena)
 
@@ -41,4 +40,3 @@ En iyi hostinglerde barındırılan flow, verilerinizi çok iyi  bir şekilde ko
 [Buraya tıklayarak botun resmi discord sunucusuna katılabilirsiniz.](https://discord.gg/9cDeqFe)
 
 ## Görseller 📷
-![image](https://discordapp.com/channels/644947524788027435/739255741092724898/755172002964439051)
