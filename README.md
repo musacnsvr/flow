@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/musacnsvr/flow)](https://github.com/musacnsvr/flow/stargazers)
 [![Discord](https://img.shields.io/discord/644947524788027435)](https://discord.gg/9cDeqFe)
-[![Version](https://img.shields.io/github/package-json/v/anilmisirlioglu/Asena?color=blue)](https://github.com/anilmisirlioglu/Asena)
+
 
 > Tamamen Türkçe, stabil, hızlı, kolay ve yeni nesil teknolojilerle kuşatılmış Discord moderasyon, kayıt, eğlence ve koruma botu!
 
