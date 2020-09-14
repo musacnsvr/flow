@@ -1,13 +1,12 @@
 # [FLOW] 🤖
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Stars](https://img.shields.io/github/stars/anilmisirlioglu/Asena)](https://github.com/musacnsvr/flow/stargazers)
+[![Stars](https://img.shields.io/github/stars/musacnsvr/flow?style=plastic)](https://github.com/musacnsvr/flow/stargazers)
 [![Servers](https://img.shields.io/badge/dynamic/json.svg?label=servers&url=https%3A%2F%2Fdiscord.bots.gg%2Fapi%2Fv1%2Fbots%2F716259870910840832&query=%24.guildCount&colorB=7289DA)](https://discord.com/api/oauth2/authorize?client_id=741323966127538197&permissions=8&scope=bot)
-[![CodeFactor](https://www.codefactor.io/repository/github/anilmisirlioglu/asena/badge/master)](https://www.codefactor.io/repository/github/anilmisirlioglu/asena/overview/master)
-[![Discord](https://discordapp.com/api/guilds/701790578874253363/widget.png?style=shield)](https://discord.gg/CRgXhfs)
+[![Discord](https://img.shields.io/discord/644947524788027435)](https://discord.gg/9cDeqFe)
 [![Version](https://img.shields.io/github/package-json/v/anilmisirlioglu/Asena?color=blue)](https://github.com/anilmisirlioglu/Asena)
 
-> Tamamen Türkçe, stabil, hızlı, kolay ve yeni nesil teknolojilerle kuşatılmış Discord çekiliş & anket botu!
+> Tamamen Türkçe, stabil, hızlı, kolay ve yeni nesil teknolojilerle kuşatılmış Discord moderasyon, kayıt, eğlence ve koruma botu!
 
 ## Komut Listesi 🦾
 
@@ -15,18 +14,18 @@
 
 | Komut | Açıklama |
 |:-----------:|:----------:|
-| cancel | Oluşturulan çekilişi iptal eder. |
-| create | Tek satırda yeni çekiliş başlatır. |
-| reroll | Çekiliş sonuçlarını tekrar çeker. |
-| setup | Interaktif kurulum sihirbazını başlatır. |
-| end | Oluşturulan çekiliş erken bitirir. |
-| raffles | Sunucudaki aktif çekilişleri listeler. |
-| vote | Sunucuda 2 seçenekli basit anket başlatır. |
-| question | Bir soru sorar. |
-| help | Yardım menüsünü özel mesaj aracılığı ile mesaj kutunuza gönderir. |
-| setprefix | Komut ön adını değiştirir. |
-| scperm | Komutun yetkisini düzenler. |
-| invite | Botun davet URLsini sohbete gönderir. |
+| afk | AFK olursunuz |
+| mute | Birini chatda mutelersiniz. |
+| kilit | Kanalı süreli kilitler |
+| koruma | Sunucunuzu korursunuz. |
+| hatırlat | Belirtilen zamanda DM kutunuza mesaj gönderir. |
+| adamasmaca | adam asmaca oynarsınız. |
+| oylama | Sunucuda 2 seçenekli basit anket başlatır. |
+| 1v1 | Duello atarsınız. |
+| help | Yardım menüsünü gösterir. |
+| istatistik | istatistikleri gösterir. |
+| corona | Aktif korona sayısını gösterir ;(. |
+| doviz | Anlık doviz kurunu gösterir. |
 
 ## Davet 🔗
 
