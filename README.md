@@ -39,4 +39,3 @@ En iyi hostinglerde barındırılan flow, verilerinizi çok iyi  bir şekilde ko
 ## Destek Sunucusu
 [Buraya tıklayarak botun resmi discord sunucusuna katılabilirsiniz.](https://discord.gg/9cDeqFe)
 
-## Görseller 📷
